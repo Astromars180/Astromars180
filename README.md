@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luis Felipe Maldonado Tapia</h1>
 <h3 align="center">Graduate in Computer Science, passionate about technology, motivated by continuous learning and innovation from Mexico</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
